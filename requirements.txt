@@ -1,0 +1,4 @@
+ortools
+jupyter
+pandas
+pydantic
